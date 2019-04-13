@@ -11,7 +11,7 @@ const RouterComponent = () => {
           <Scene
             key="login"
             component={LoginForm}
-            title="Please login"
+            title="Login"
             sceneStyle={{ paddingTop: 64 }}
           />
         </Scene>
